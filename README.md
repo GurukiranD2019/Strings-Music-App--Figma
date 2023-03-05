@@ -1,3 +1,3 @@
-Welcome to Strings Music Player
 
-![plot](1.jpg)
+
+![plot](2.jpg)
